@@ -37,7 +37,7 @@ export function Logo({ large = false, className = '' }) {
       className={`logo ${className}`}
       src={large ? './brand/logo-1400.webp' : './brand/logo-640.webp'}
       width={large ? 1400 : 640}
-      height={large ? 398 : 182}
+      height={large ? 344 : 157}
       alt="JayCab Fitness"
       decoding="async"
     />
